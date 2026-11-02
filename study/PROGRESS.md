@@ -18,8 +18,8 @@
 
 | 课 | 读完 | 练习 | 面试题已过 | 完成日期 | 笔记 |
 |---|---|---|---|---|---|
-| [L01](lessons/L01-layout.md) | [x] | [x] | [ ] |  | 布局/分层已过；面试题按用户要求跳过 |
-| [L02](lessons/L02-session.md) | [ ] | [ ] | [ ] |  |  |
+| [L01](lessons/L01-layout.md) | [x] | [x] | [ ] |  | 布局/分层已过；面试题跳过。笔记：[notes/2026-11-02-L01-L02.md](notes/2026-11-02-L01-L02.md) |
+| [L02](lessons/L02-session.md) | [ ] | [ ] | [ ] |  | 结论已学；详见同上笔记 |
 | [L03](lessons/L03-run-turn.md) | [ ] | [ ] | [ ] |  |  |
 | [L04](lessons/L04-model-client.md) | [ ] | [ ] | [ ] |  |  |
 | [L05](lessons/L05-prompt.md) | [ ] | [ ] | [ ] |  |  |
