@@ -9,9 +9,9 @@
 | 字段 | 值 |
 |---|---|
 | 课 | L04 · Model client 与 Responses streaming |
-| 节 | 结论 |
+| 节 | 调用链 |
 | 状态 | 进行中 |
-| 下一节 | 调用链 |
+| 下一节 | 关键代码 |
 | 更新日期 | 2026-11-11 |
 
 > 推进到下一节时更新本表并 `git commit`（见 `.cursor/rules/codex-tutor.mdc` 学习习惯）。
