@@ -8,10 +8,10 @@
 
 | 字段 | 值 |
 |---|---|
-| 课 | L02 · Session / Thread 与 SQ/EQ |
-| 节 | 面试题 |
+| 课 | L03 · Agent loop：run_turn |
+| 节 | 结论 |
 | 状态 | 进行中 |
-| 下一节 | （本课收尾） |
+| 下一节 | 调用链 |
 | 更新日期 | 2026-11-11 |
 
 > 推进到下一节时更新本表并 `git commit`（见 `.cursor/rules/codex-tutor.mdc` 学习习惯）。
@@ -19,7 +19,7 @@
 | 课 | 读完 | 练习 | 面试题已过 | 完成日期 | 笔记 |
 |---|---|---|---|---|---|
 | [L01](lessons/L01-layout.md) | [x] | [x] | [ ] |  | 布局/分层已过；面试题跳过。笔记：[notes/2026-11-02-L01-L02.md](notes/2026-11-02-L01-L02.md) |
-| [L02](lessons/L02-session.md) | [ ] | [ ] | [ ] |  | 结论已学；详见同上笔记 |
+| [L02](lessons/L02-session.md) | [x] | [ ] | [ ] |  | SQ/EQ、steer、Session vs TurnContext；面试参考已读未打分。练习分支 `study/L02-op-log` |
 | [L03](lessons/L03-run-turn.md) | [ ] | [ ] | [ ] |  |  |
 | [L04](lessons/L04-model-client.md) | [ ] | [ ] | [ ] |  |  |
 | [L05](lessons/L05-prompt.md) | [ ] | [ ] | [ ] |  |  |
