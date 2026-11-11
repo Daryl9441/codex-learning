@@ -22,7 +22,7 @@
 | [L02](lessons/L02-session.md) | [x] | [ ] | [ ] |  | SQ/EQ、steer、Session vs TurnContext；面试参考已读未打分。练习分支 `study/L02-op-log` |
 | [L03](lessons/L03-run-turn.md) | [x] | [ ] | [ ] |  | run_turn 两环、needs_follow_up、早 spawn 晚 drain；面试参考已读。练习分支 `study/L03-follow-up-log` |
 | [L04](lessons/L04-model-client.md) | [x] | [ ] | [ ] |  | ModelClient vs Session；完整 history + WS 增量；演示/练习跳过 |
-| [L05](lessons/L05-prompt.md) | [ ] | [ ] | [ ] |  |  |
+| [L05](lessons/L05-prompt.md) | [ ] | [ ] | [ ] |  | 结论已学；笔记见 [notes/2026-11-02-L01-L02.md](notes/2026-11-02-L01-L02.md) |
 | [L06](lessons/L06-history-compaction.md) | [ ] | [ ] | [ ] |  |  |
 | [L07](lessons/L07-tools.md) | [ ] | [ ] | [ ] |  |  |
 | [L08](lessons/L08-approval-execpolicy.md) | [ ] | [ ] | [ ] |  |  |
