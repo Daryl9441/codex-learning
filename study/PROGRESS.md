@@ -9,9 +9,9 @@
 | 字段 | 值 |
 |---|---|
 | 课 | L06 · History 与 compaction |
-| 节 | 引导问题 / 面试题（演示与练习已跳过） |
-| 状态 | 进行中 · 看答案模式 |
-| 下一节 | （本课收尾 / 勾选） |
+| 节 | （本课已读完） |
+| 状态 | 已读完；演示/练习/面试题跳过 |
+| 下一节 | L07 · 工具定义与分发 |
 | 更新日期 | 2026-11-18 |
 
 > 推进到下一节时更新本表并 `git commit`（见 `.cursor/rules/codex-tutor.mdc` 学习习惯）。
@@ -23,7 +23,7 @@
 | [L03](lessons/L03-run-turn.md) | [x] | [ ] | [ ] |  | run_turn 两环、needs_follow_up、早 spawn 晚 drain；面试参考已读。练习分支 `study/L03-follow-up-log` |
 | [L04](lessons/L04-model-client.md) | [x] | [ ] | [ ] |  | ModelClient vs Session；完整 history + WS 增量；演示/练习跳过 |
 | [L05](lessons/L05-prompt.md) | [x] | [ ] | [ ] |  | fragment + role/kind；稳定前缀 vs history diff；面试题跳过；CLI 因缺 toolchain 1.95.0 未跑 |
-| [L06](lessons/L06-history-compaction.md) | [ ] | [ ] | [ ] |  |  |
+| [L06](lessons/L06-history-compaction.md) | [x] | [ ] | [ ] |  | ContextManager + for_prompt/normalize；auto compact 三选一；面试题跳过 |
 | [L07](lessons/L07-tools.md) | [ ] | [ ] | [ ] |  |  |
 | [L08](lessons/L08-approval-execpolicy.md) | [ ] | [ ] | [ ] |  |  |
 | [L09](lessons/L09-sandbox.md) | [ ] | [ ] | [ ] |  |  |
