@@ -9,9 +9,9 @@
 | 字段 | 值 |
 |---|---|
 | 课 | L05 · Prompt / instructions 组装 |
-| 节 | 面试题 |
-| 状态 | 进行中 |
-| 下一节 | （本课收尾 / 勾选） |
+| 节 | （本课已读完） |
+| 状态 | 已读完；面试题跳过 |
+| 下一节 | L06 · History 与 compaction |
 | 更新日期 | 2026-11-18 |
 
 > 推进到下一节时更新本表并 `git commit`（见 `.cursor/rules/codex-tutor.mdc` 学习习惯）。
@@ -22,7 +22,7 @@
 | [L02](lessons/L02-session.md) | [x] | [ ] | [ ] |  | SQ/EQ、steer、Session vs TurnContext；面试参考已读未打分。练习分支 `study/L02-op-log` |
 | [L03](lessons/L03-run-turn.md) | [x] | [ ] | [ ] |  | run_turn 两环、needs_follow_up、早 spawn 晚 drain；面试参考已读。练习分支 `study/L03-follow-up-log` |
 | [L04](lessons/L04-model-client.md) | [x] | [ ] | [ ] |  | ModelClient vs Session；完整 history + WS 增量；演示/练习跳过 |
-| [L05](lessons/L05-prompt.md) | [ ] | [ ] | [ ] |  | 结论已学；笔记见 [notes/2026-11-02-L01-L02.md](notes/2026-11-02-L01-L02.md) |
+| [L05](lessons/L05-prompt.md) | [x] | [ ] | [ ] |  | fragment + role/kind；稳定前缀 vs history diff；面试题跳过；CLI 因缺 toolchain 1.95.0 未跑 |
 | [L06](lessons/L06-history-compaction.md) | [ ] | [ ] | [ ] |  |  |
 | [L07](lessons/L07-tools.md) | [ ] | [ ] | [ ] |  |  |
 | [L08](lessons/L08-approval-execpolicy.md) | [ ] | [ ] | [ ] |  |  |
