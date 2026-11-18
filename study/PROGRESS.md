@@ -8,10 +8,10 @@
 
 | 字段 | 值 |
 |---|---|
-| 课 | L05 · Prompt / instructions 组装 |
-| 节 | （本课已读完） |
-| 状态 | 已读完；面试题跳过 |
-| 下一节 | L06 · History 与 compaction |
+| 课 | L06 · History 与 compaction |
+| 节 | 结论 |
+| 状态 | 进行中 |
+| 下一节 | 调用链 |
 | 更新日期 | 2026-11-18 |
 
 > 推进到下一节时更新本表并 `git commit`（见 `.cursor/rules/codex-tutor.mdc` 学习习惯）。
