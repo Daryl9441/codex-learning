@@ -12,10 +12,10 @@
 
 | 字段 | 值 |
 |---|---|
-| 课 | L07 · 工具定义与分发 |
-| 节 | 引导问题 / 面试题（练习已跳过） |
-| 状态 | 进行中 · 看答案模式 |
-| 下一节 | （本课收尾 / 勾选） |
+| 课 | L08 · 审批、execpolicy、Orchestrator |
+| 节 | 结论 |
+| 状态 | 进行中 |
+| 下一节 | 调用链 |
 | 更新日期 | 2026-11-19 |
 
 > 推进到下一节时更新本表并 `git commit`（见 `.cursor/rules/codex-tutor.mdc` 学习习惯）。
@@ -28,7 +28,7 @@
 | [L04](lessons/L04-model-client.md) | [x] | [ ] | [ ] |  | ModelClient vs Session；完整 history + WS 增量；演示/练习跳过 |
 | [L05](lessons/L05-prompt.md) | [x] | [ ] | [ ] |  | fragment + role/kind；稳定前缀 vs history diff；面试题跳过；CLI 因缺 toolchain 1.95.0 未跑 |
 | [L06](lessons/L06-history-compaction.md) | [x] | [ ] | [ ] |  | ContextManager + for_prompt/normalize；auto compact 三选一；面试题跳过 |
-| [L07](lessons/L07-tools.md) | [ ] | [ ] | [ ] |  |  |
+| [L07](lessons/L07-tools.md) | [x] | [ ] | [ ] |  | Router/Registry/Runtime；并行 RwLock；RespondToModel vs Fatal；面试题跳过 |
 | [L08](lessons/L08-approval-execpolicy.md) | [ ] | [ ] | [ ] |  |  |
 | [L09](lessons/L09-sandbox.md) | [ ] | [ ] | [ ] |  |  |
 | [L10](lessons/L10-apply-patch.md) | [ ] | [ ] | [ ] |  |  |
