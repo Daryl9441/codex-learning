@@ -12,10 +12,10 @@
 
 | 字段 | 值 |
 |---|---|
-| 课 | L10 · apply_patch |
-| 节 | 引导问题 / 面试题（演示与练习已跳过） |
-| 状态 | 进行中 · 看答案模式 |
-| 下一节 | （本课收尾 / 勾选） |
+| 课 | L11 · MCP client |
+| 节 | 结论 |
+| 状态 | 进行中 |
+| 下一节 | 调用链 |
 | 更新日期 | 2026-11-19 |
 
 > 推进到下一节时更新本表并 `git commit`（见 `.cursor/rules/codex-tutor.mdc` 学习习惯）。
@@ -31,7 +31,7 @@
 | [L07](lessons/L07-tools.md) | [x] | [ ] | [ ] |  | Router/Registry/Runtime；并行 RwLock；RespondToModel vs Fatal；面试题跳过 |
 | [L08](lessons/L08-approval-execpolicy.md) | [x] | [ ] | [ ] |  | approval × sandbox 正交；ForcedRm；Orchestrator 先批后沙箱；面试题跳过 |
 | [L09](lessons/L09-sandbox.md) | [x] | [ ] | [ ] |  | SandboxManager；bwrap/Seatbelt；`.git` 只读；拒绝启发式；面试题跳过 |
-| [L10](lessons/L10-apply-patch.md) | [ ] | [ ] | [ ] |  |  |
+| [L10](lessons/L10-apply-patch.md) | [x] | [ ] | [ ] |  | Begin Patch 协议；verify→safety→落盘；seek_sequence 四级；面试题跳过 |
 | [L11](lessons/L11-mcp-client.md) | [ ] | [ ] | [ ] |  |  |
 | [L12](lessons/L12-exec-app-server.md) | [ ] | [ ] | [ ] |  |  |
 | [L13](lessons/L13-config-agents-md.md) | [ ] | [ ] | [ ] |  |  |
