@@ -12,10 +12,10 @@
 
 | 字段 | 值 |
 |---|---|
-| 课 | L13 · Config 与 AGENTS.md |
-| 节 | 引导问题 / 面试题（演示与练习已跳过） |
-| 状态 | 进行中 · 看答案模式 |
-| 下一节 | （本课收尾 / 勾选） |
+| 课 | L14 · TUI、rollout、otel |
+| 节 | 结论 |
+| 状态 | 进行中 |
+| 下一节 | 调用链 |
 | 更新日期 | 2026-11-20 |
 
 > 推进到下一节时更新本表并 `git commit`（见 `.cursor/rules/codex-tutor.mdc` 学习习惯）。
@@ -34,7 +34,7 @@
 | [L10](lessons/L10-apply-patch.md) | [x] | [ ] | [ ] |  | Begin Patch 协议；verify→safety→落盘；seek_sequence 四级；面试题跳过 |
 | [L11](lessons/L11-mcp-client.md) | [x] | [ ] | [ ] |  | MCP client；callable_* vs raw name；AppToolApproval；无 mcp-server；面试题跳过 |
 | [L12](lessons/L12-exec-app-server.md) | [x] | [ ] | [ ] |  | exec→app-server JSON-RPC；Never+reject；ThreadEvent≠EventMsg；面试题跳过 |
-| [L13](lessons/L13-config-agents-md.md) | [ ] | [ ] | [ ] |  |  |
+| [L13](lessons/L13-config-agents-md.md) | [x] | [ ] | [ ] |  | layer precedence；requirements 打回；AGENTS root→cwd + 32KiB；面试题跳过 |
 | [L14](lessons/L14-tui-rollout-otel.md) | [ ] | [ ] | [ ] |  |  |
 | [L15](lessons/L15-capstone.md) | [ ] | [ ] | [ ] |  |  |
 
