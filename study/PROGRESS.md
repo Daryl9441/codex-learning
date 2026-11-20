@@ -1,6 +1,6 @@
 # 研读进度
 
-**结论**：15 课都未开始。勾选由导师在你通过后写入；笔记只留 1–2 句。两道面试题都 ≥ 8/10 才勾「面试题已过」。
+**结论**：L01–L15 课稿已读完（练习与面试打分按偏好跳过）。勾选由导师写入；笔记只留 1–2 句。两道面试题都 ≥ 8/10 才勾「面试题已过」。
 
 基线 commit：`67f0994b532b8740f14b5b738af7b7b2a915b1d6`。
 
@@ -12,10 +12,10 @@
 
 | 字段 | 值 |
 |---|---|
-| 课 | L15 · Capstone |
-| 节 | 引导问题 / 面试题（演示与练习已跳过） |
-| 状态 | 进行中 · 看答案模式 |
-| 下一节 | （本课收尾 / 勾选） |
+| 课 | （全部完成） |
+| 节 | — |
+| 状态 | L01–L15 课稿读完 · 课程收尾 |
+| 下一节 | — |
 | 更新日期 | 2026-11-20 |
 
 > 推进到下一节时更新本表并 `git commit`（见 `.cursor/rules/codex-tutor.mdc` 学习习惯）。
@@ -36,7 +36,7 @@
 | [L12](lessons/L12-exec-app-server.md) | [x] | [ ] | [ ] |  | exec→app-server JSON-RPC；Never+reject；ThreadEvent≠EventMsg；面试题跳过 |
 | [L13](lessons/L13-config-agents-md.md) | [x] | [ ] | [ ] |  | layer precedence；requirements 打回；AGENTS root→cwd + 32KiB；面试题跳过 |
 | [L14](lessons/L14-tui-rollout-otel.md) | [x] | [ ] | [ ] |  | TUI select!→app-server；rollout JSONL resume；otel 默认不记 prompt；面试题跳过 |
-| [L15](lessons/L15-capstone.md) | [ ] | [ ] | [ ] |  |  |
+| [L15](lessons/L15-capstone.md) | [x] | [ ] | [ ] |  | Capstone：分层骨架+对照 harness；call/output、审批∥沙箱、rollout policy；面试题跳过 |
 
 ## 勾选含义
 
