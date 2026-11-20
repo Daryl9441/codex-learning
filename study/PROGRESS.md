@@ -12,10 +12,10 @@
 
 | 字段 | 值 |
 |---|---|
-| 课 | L14 · TUI、rollout、otel |
-| 节 | 引导问题 / 面试题（演示与练习已跳过） |
-| 状态 | 进行中 · 看答案模式 |
-| 下一节 | （本课收尾 / 勾选） |
+| 课 | L15 · Capstone |
+| 节 | 结论 |
+| 状态 | 进行中 |
+| 下一节 | 调用链 |
 | 更新日期 | 2026-11-20 |
 
 > 推进到下一节时更新本表并 `git commit`（见 `.cursor/rules/codex-tutor.mdc` 学习习惯）。
@@ -35,7 +35,7 @@
 | [L11](lessons/L11-mcp-client.md) | [x] | [ ] | [ ] |  | MCP client；callable_* vs raw name；AppToolApproval；无 mcp-server；面试题跳过 |
 | [L12](lessons/L12-exec-app-server.md) | [x] | [ ] | [ ] |  | exec→app-server JSON-RPC；Never+reject；ThreadEvent≠EventMsg；面试题跳过 |
 | [L13](lessons/L13-config-agents-md.md) | [x] | [ ] | [ ] |  | layer precedence；requirements 打回；AGENTS root→cwd + 32KiB；面试题跳过 |
-| [L14](lessons/L14-tui-rollout-otel.md) | [ ] | [ ] | [ ] |  |  |
+| [L14](lessons/L14-tui-rollout-otel.md) | [x] | [ ] | [ ] |  | TUI select!→app-server；rollout JSONL resume；otel 默认不记 prompt；面试题跳过 |
 | [L15](lessons/L15-capstone.md) | [ ] | [ ] | [ ] |  |  |
 
 ## 勾选含义
